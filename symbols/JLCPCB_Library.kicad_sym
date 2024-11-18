@@ -23,7 +23,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:LED0603-R-RD_WHITE"
+		(property "Footprint" "JLCPCB:LED0603-R-RD_WHITE"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -202,7 +202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:LED0805-R-RD"
+		(property "Footprint" "JLCPCB:LED0805-R-RD"
 			(at 0.254 -9.906 0)
 			(effects
 				(font
@@ -381,7 +381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:LED0805-R-RD"
+		(property "Footprint" "JLCPCB:LED0805-R-RD"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -559,7 +559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL"
+		(property "Footprint" "JLCPCB:MSOP-10_L3.0-W3.0-P0.50-LS5.0-BL"
 			(at 1.016 -17.526 0)
 			(effects
 				(font
@@ -831,7 +831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
+		(property "Footprint" "JLCPCB:SOT-223-3_L6.5-W3.4-P2.30-LS7.0-BR"
 			(at 0.254 -13.716 0)
 			(effects
 				(font
@@ -997,7 +997,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:SOT-223_L6.5-W3.5-P2.30-LS7.0-BR"
+		(property "Footprint" "JLCPCB:SOT-223_L6.5-W3.5-P2.30-LS7.0-BR"
 			(at -0.254 -12.954 0)
 			(effects
 				(font
@@ -1161,7 +1161,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:LGA-14_L3.0-W2.5-P0.50-BR"
+		(property "Footprint" "JLCPCB:LGA-14_L3.0-W2.5-P0.50-BR"
 			(at 0.762 -20.32 0)
 			(effects
 				(font
@@ -1506,7 +1506,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:L0603"
+		(property "Footprint" "JLCPCB:L0603"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -1661,7 +1661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:L0805"
+		(property "Footprint" "JLCPCB:L0805"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -1816,7 +1816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:LED0603-RD"
+		(property "Footprint" "JLCPCB:LED0603-RD"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -1995,7 +1995,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:SMB_L4.6-W3.6-LS5.3-BI"
+		(property "Footprint" "JLCPCB:SMB_L4.6-W3.6-LS5.3-BI"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -2138,7 +2138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
+		(property "Footprint" "JLCPCB:SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR"
 			(at -0.762 -13.97 0)
 			(effects
 				(font
@@ -2377,7 +2377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:IND-SMD_L7.1-W6.6_SLO0618H"
+		(property "Footprint" "JLCPCB:IND-SMD_L7.1-W6.6_SLO0618H"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -2533,7 +2533,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL"
+		(property "Footprint" "JLCPCB:SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL"
 			(at 0.508 -16.256 0)
 			(effects
 				(font
@@ -2781,7 +2781,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:SMA_L4.3-W2.6-LS5.2-RD"
+		(property "Footprint" "JLCPCB:SMA_L4.3-W2.6-LS5.2-RD"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -2924,7 +2924,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:CASE-B_3528"
+		(property "Footprint" "JLCPCB:CASE-B_3528"
 			(at 0 -10.16 0)
 			(effects
 				(font
@@ -3103,7 +3103,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2"
+		(property "Footprint" "JLCPCB:SW-SMD_4P-L5.1-W5.1-P3.70-LS6.5-TL-2"
 			(at -1.016 -13.716 0)
 			(effects
 				(font
@@ -3328,7 +3328,7 @@
 				)
 			)
 		)
-		(property "Footprint" "JLCPCB_Footprint_lib:LED0805-R-RD"
+		(property "Footprint" "JLCPCB:LED0805-R-RD"
 			(at 0 -11.176 0)
 			(effects
 				(font
@@ -3493,7 +3493,7 @@
     (property "Value" "TYPE-C-31-M-12" (id 1) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "JLCPCB_Footprint_lib:USB-C_SMD-TYPE-C-31-M-12" (id 2) (at 0 -10.16 0)
+    (property "Footprint" "JLCPCB:USB-C_SMD-TYPE-C-31-M-12" (id 2) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://so.szlcsc.com/global.html?c=&k=C165948" (id 3) (at -2.286 0.127 0)
@@ -3648,7 +3648,7 @@
     (property "Value" "IS31FL3728-QFLS2-TR" (id 1) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "footprints:QFN-24_L4.0-W4.0-P0.50-BL-EP2.6" (id 2) (at 0 -10.16 0)
+    (property "Footprint" "JLCPCB:QFN-24_L4.0-W4.0-P0.50-BL-EP2.6" (id 2) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/245167.html" (id 3) (at -2.286 0.127 0)
@@ -3833,7 +3833,7 @@
     (property "Value" "SQJQ160E-T1_GE3" (id 1) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "footprints:POWERPAK_L8.0-W8.0-P2.00-BL" (id 2) (at 0 -10.16 0)
+    (property "Footprint" "JLCPCB:POWERPAK_L8.0-W8.0-P2.00-BL" (id 2) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/511450.html" (id 3) (at -2.286 0.127 0)
@@ -3987,7 +3987,7 @@
     (property "Value" "IRS21867SPBF" (id 1) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "footprints:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL" (id 2) (at 0 -10.16 0)
+    (property "Footprint" "JLCPCB:SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL" (id 2) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://so.szlcsc.com/global.html?c=&k=C9843" (id 3) (at -2.286 0.127 0)
@@ -4071,7 +4071,7 @@
     (property "Value" "IRS21864STRPBF" (id 1) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "footprints:SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL" (id 2) (at 0 -10.16 0)
+    (property "Footprint" "JLCPCB:SOIC-14_L8.7-W3.9-P1.27-LS6.0-BL" (id 2) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://item.szlcsc.com/7253.html" (id 3) (at -2.286 0.127 0)
@@ -4190,7 +4190,7 @@
     (property "Value" "BZX84C15-7-F" (id 1) (at 0 -2.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "footprints:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR" (id 2) (at 0 -10.16 0)
+    (property "Footprint" "JLCPCB:SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR" (id 2) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27) italic) hide)
     )
     (property "Datasheet" "https://www.diodes.com/assets/Package-Files/SOT23.pdf" (id 3) (at -2.286 0.127 0)
