@@ -1,6 +1,6 @@
-(module "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer F.Cu) (tedit 671B9AFE)
+(module "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR" (layer F.Cu) (tedit 673BD25B)
   (descr "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR footprint")
-  (tags "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR footprint C343993")
+  (tags "SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR footprint C105432")
   (attr smd)
   (fp_text reference REF** (at 0 -3.536195) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
@@ -21,7 +21,7 @@
   (fp_text user REF** (at 0 5.536195) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (model JLCPCB_lib/JLCPCB_Footprint_lib/packages3d/SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.step
+  (model ./footprints/packages3d/SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))

@@ -1,6 +1,6 @@
-(module "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR" (layer F.Cu) (tedit 673B84F7)
+(module "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR" (layer F.Cu) (tedit 673BD25B)
   (descr "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR footprint")
-  (tags "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR footprint C500789")
+  (tags "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR footprint C20526")
   (attr smd)
   (fp_text reference REF** (at 0 -3.526213) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
